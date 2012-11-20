@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rlanyrd"
   gem.homepage = "http://github.com/egze/rlanyrd"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{lanyrd.com scraper}
+  gem.description = %Q{lanyrd.com scraper}
   gem.email = "aleksandr.lossenko@gmail.com"
   gem.authors = ["Aleksandr Lossenko"]
   # dependencies defined in Gemfile
